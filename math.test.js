@@ -1,4 +1,4 @@
-const {add, subtract, multiply, divide} = require('./math.js')
+const {add, subtract, multiply, divide, sqrt} = require('./math.js')
 
 test('Must add 2 and 3 to 5',()=>{
   expect(add(2,3)).toBe(5)
@@ -14,4 +14,8 @@ test('Must multiply 3 and 5 to 15',()=>{
 
 test('Must divide 4 by 2 to 2', ()=>{
   expect(divide(4,2)).toBe(2)
+})
+
+test('Must return 2',()=>{
+  expect(sqrt(4)).toBe(2)
 })
