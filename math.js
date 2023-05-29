@@ -15,4 +15,8 @@ function divide(a,b) {
   return a/b;
 }
 
-module.exports = {add, subtract, multiply, divide}
+function sqrt(a){
+  return Math.sqrt(a)
+}
+
+module.exports = {add, subtract, multiply, divide, sqrt}
