@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Digambaran/myNewPackage/compare/v1.0.0...v1.1.0) (2023-05-29)
+
+
+### Features
+
+* sqrt function added ([#5](https://github.com/Digambaran/myNewPackage/issues/5)) ([ac448b3](https://github.com/Digambaran/myNewPackage/commit/ac448b365211f9ff617dcc51541bc654cee4582c))
+
 ## 1.0.0 (2023-05-29)
 
 
