@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.0](https://github.com/Digambaran/myNewPackage/compare/v1.1.0...v2.0.0) (2023-06-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* new feature lll
+* new feature prime
+
+### Features
+
+* new feature lll ([5dde77a](https://github.com/Digambaran/myNewPackage/commit/5dde77a5dab6ae863c8f6fd7dc3fe9441595b3eb))
+* new feature prime ([92c3586](https://github.com/Digambaran/myNewPackage/commit/92c35865b211516d09c98bbfe34da1dcfe10da2f))
+
 ## [1.1.0](https://github.com/Digambaran/myNewPackage/compare/v1.0.0...v1.1.0) (2023-05-29)
 
 
