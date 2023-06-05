@@ -18,6 +18,10 @@ function sqrt(a) {
   return Math.sqrt(a);
 }
 
+function sqrt10() {
+  return Math.sqrt(10);
+}
+
 function primesTill(n) {
   // Create a boolean array
   // "prime[0..n]" and
@@ -46,4 +50,4 @@ function primesTill(n) {
   return res;
 }
 
-module.exports = { add, subtract, multiply, divide, sqrt, primesTill };
+module.exports = { add, subtract, multiply, divide, sqrt, sqrt10, primesTill };
