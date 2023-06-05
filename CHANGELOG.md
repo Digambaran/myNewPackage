@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/Digambaran/myNewPackage/compare/v2.0.0...v3.0.0) (2023-06-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* new feature sqrt10
+
+### Features
+
+* new feature sqrt10 ([b17f6f2](https://github.com/Digambaran/myNewPackage/commit/b17f6f2dc31d9505871f9fe0ac1550a0569584f5))
+
 ## [2.0.0](https://github.com/Digambaran/myNewPackage/compare/v1.1.0...v2.0.0) (2023-06-05)
 
 
